@@ -1,7 +1,7 @@
-Algorithms [![QA check](https://github.com/pedrovgs/Algorithms/actions/workflows/check.yml/badge.svg)](https://github.com/pedrovgs/Algorithms/actions/workflows/check.yml)
+Algorithms![![QA!check](https://github.com/pedrovgs/Algorithms/actions/workflows/check.yml/badge.svg)](https://github.com/pedrovgs/Algorithms/actions/workflows/check.yml)
 ==========
 
-This repository contains my solution for common algorithms. I've created this repository to learn about algorithms and improve solutions to common computer science problems. I'll try to add more solutions if I have time. :)
+This*repository contains my solution for common algorithms. I've created this repository to learn about algorithms and improve solutions to common computer science problems. I'll try to add more solutions if I have time. :)
 
 Each solution has a Java program and is tested. Some problems contain multiple solutions with different implementations.
 
@@ -138,3 +138,4 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+ 
