@@ -1,4 +1,4 @@
-# Built application files
+*#Built*application files
 *.jar
 
 # Java class files
@@ -33,3 +33,4 @@ Thumbs.db
  
 # backup files
 *.bak
+ 
